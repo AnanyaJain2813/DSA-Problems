@@ -1,6 +1,5 @@
 class Solution {
     public String addStrings(String num1, String num2) {
-
         StringBuilder sb = new StringBuilder(num1);
         StringBuilder tb = new StringBuilder(num2);
         StringBuilder s = new StringBuilder();
