@@ -33,8 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0415-add-strings) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0796-rotate-string) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
