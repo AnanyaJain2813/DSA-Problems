@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0415-add-strings) |
 | [0796-rotate-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0796-rotate-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -62,4 +63,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
