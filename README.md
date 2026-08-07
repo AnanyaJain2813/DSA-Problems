@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0796-rotate-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Simulation
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
