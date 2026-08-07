@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0796-rotate-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Simulation
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Prefix Sum
 |  |
