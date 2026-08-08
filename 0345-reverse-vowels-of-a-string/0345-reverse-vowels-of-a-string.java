@@ -1,38 +1,32 @@
 class Solution {
+    public static boolean vo(char ch){
+        if(ch == 'A' || ch == 'a' || ch == 'E' || ch == 'e' || ch == 'i' || ch == 'I' || ch == 'o' || ch == 'O' || ch == 'u' || ch == 'U') return true;
+        return false;
+    }
     public String reverseVowels(String s) {
 
-        String rev = "";
-        for(int i = s.length()-1; i >= 0; i--){
-            char ch = s.charAt(i);
-            if(ch == 'a' || ch == 'e' || ch == 'i' ||
+       char ch[] = s.toCharArray();
 
-               ch == 'o' || ch == 'u' ||
-
-               ch == 'A' || ch == 'E' || ch == 'I' ||
-
-               ch == 'O' || ch == 'U'){
-                rev += s.charAt(i);
-            }
+       int i = 0, j = s.length() - 1;
+       
+       while(i < j){
+        char a = ch[i];
+        char b = ch[j];
+        while(i < j && !vo(a)){
+            i++;
+            a = ch[i];
         }
-        int j = 0;
-        String b = "";
-      
-        for(int i = 0; i < s.length(); i++){
-            char ch = s.charAt(i);
-            if( j < rev.length() && (ch == 'a' || ch == 'e' || ch == 'i' ||
-
-               ch == 'o' || ch == 'u' ||
-
-               ch == 'A' || ch == 'E' || ch == 'I' ||
-
-               ch == 'O' || ch == 'U' )){
-                b += rev.charAt(j);
-                j++;
-            }
-            else{
-                b+= s.charAt(i);
-            }
+        while(i < j && !vo(b)){
+            j--;
+            b = ch[j];
         }
-        return b;
+
+        char te = ch[i];
+        ch[i] = ch[j];
+        ch[j] = te;
+        i++;
+        j--;
+       }       
+       return new String(ch);
     }
 }
