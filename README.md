@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0392-is-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0056-merge-intervals) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
