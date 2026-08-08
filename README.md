@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0605-can-place-flowers) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
