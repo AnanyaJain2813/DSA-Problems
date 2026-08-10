@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0986-interval-list-intersections) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1732-find-the-highest-altitude](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1732-find-the-highest-altitude](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
