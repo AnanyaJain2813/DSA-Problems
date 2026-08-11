@@ -30,18 +30,19 @@ class Solution {
     //         i++;
     //     }
     // }
-    int []arr = new int[nums.length];
-    int j =0;
-    for(int i = 0; i < nums.length; i++){
-        if(nums[i] != 0){
-            arr[j] = nums[i];
-            j++;
+
+        int i = 0, j = 0;
+        while(i < nums.length){
+            if(nums[i] == 0){
+                i++;
+            }
+            else{
+                int tem = nums[i];
+                nums[i] = nums[j];
+                nums[j] = tem;
+                i++;
+                j++;
+            }
         }
-    }
-    j = 0;
-    for(int i : arr){
-        nums[j] = i;
-        j++;
-    }
     }
 }
