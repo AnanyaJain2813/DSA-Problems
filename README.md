@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0986-interval-list-intersections) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
 |  |
 | ------- |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0334-increasing-triplet-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
