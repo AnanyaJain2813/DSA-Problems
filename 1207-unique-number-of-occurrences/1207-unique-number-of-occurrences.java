@@ -6,10 +6,10 @@ class Solution {
             map.put(arr[i], map.getOrDefault(arr[i],0)+1);
         }
         Set<Integer> st = new HashSet<>();
-        for(Map.Entry<Integer, Integer> mpp : map.entrySet()){
-            if(st.contains(mpp.getValue())) return false;
-            st.add(mpp.getValue());
-        }
-        return true;
+       
+       for(int i : map.values()){
+        st.add(i);
+       }
+       return st.size() == map.size();
     }
 }
