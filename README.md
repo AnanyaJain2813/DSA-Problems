@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0796-rotate-string) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0605-can-place-flowers) |
 ## Design
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0739-daily-temperatures) |
 ## Bit Manipulation
