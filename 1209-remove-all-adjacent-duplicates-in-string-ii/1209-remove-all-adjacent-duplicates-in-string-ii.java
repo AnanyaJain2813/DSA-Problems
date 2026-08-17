@@ -49,7 +49,7 @@ class Solution {
 
             Pair p = st.peek();
             if(p.ch == ch){
-                p.cnt = p.cnt + 1;
+                p.cnt++;
                 if(p.cnt == k) st.pop();
             }
 
