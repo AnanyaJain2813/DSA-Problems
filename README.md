@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0092-reverse-linked-list-ii) |
+| [0206-reverse-linked-list](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
 | ------- |
