@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0402-remove-k-digits) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1207-unique-number-of-occurrences) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
