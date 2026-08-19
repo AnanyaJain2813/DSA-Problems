@@ -24,14 +24,23 @@ class Solution {
     map.put(i, map.getOrDefault(i,0)+1);
    }
 
-   List<Integer> ls = new ArrayList<>(map.keySet());
-   ls.sort((a,b)-> Integer.compare(map.get(b), map.get(a)));
+   PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)-> Integer.compare(a[1], b[1]));
 
-    int an[] = new int[k];
-    int j = 0;
-    for(int i = 0; i < k; i++){
-        an[i] = ls.get(i);
-    }
-    return an;
+      for(int i : map.keySet()){
+        int f = map.get(i);
+        int curr[] = {i, f};
+        if(pq.size() < k){
+            pq.offer(curr);
+        }
+        else if(f > pq.peek()[1]){
+            pq.poll();
+            pq.offer(curr);
+        }
+      }
+      int curr[] = new int[k];
+      for(int i= 0; i < k; i++){
+        curr[i] = pq.poll()[0];
+      }
+      return curr;
     }
 }
