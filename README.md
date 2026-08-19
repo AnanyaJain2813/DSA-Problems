@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0415-add-strings) |
+| [1929-concatenation-of-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Linked List
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
