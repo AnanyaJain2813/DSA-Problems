@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0206-reverse-linked-list) |
+| [0706-design-hashmap](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0706-design-hashmap) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0692-top-k-frequent-words) |
+| [0706-design-hashmap](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0692-top-k-frequent-words) |
+| [0706-design-hashmap](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0767-reorganize-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0155-min-stack) |
+| [0706-design-hashmap](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0706-design-hashmap) |
 ## Sweep Line
 |  |
 | ------- |
@@ -322,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0169-majority-element) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
