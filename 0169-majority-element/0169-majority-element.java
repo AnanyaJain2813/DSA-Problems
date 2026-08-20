@@ -10,6 +10,11 @@ class Solution {
             }
             else c--;
         }
-        return maj;
+        c = 0;
+        for(int i = 0; i < nums.length; i++){
+            if(nums[i] == maj) c++;
+        }
+        if(c > (nums.length/2)) return maj;
+        return -1;
     }
 }
