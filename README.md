@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0767-reorganize-string) |
 ## Quicksort
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0605-can-place-flowers) |
 | [0767-reorganize-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0767-reorganize-string) |
 ## Design
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0767-reorganize-string) |
 ## Bucket Sort
