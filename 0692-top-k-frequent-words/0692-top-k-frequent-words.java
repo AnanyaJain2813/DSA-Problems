@@ -7,20 +7,18 @@ class Solution {
         }
 
         PriorityQueue<String> pq = new PriorityQueue<>((a,b)->{
-            if(map.get(a).equals(map.get(b))) return b.compareTo(a);
-            return Integer.compare(map.get(a), map.get(b));
+            if(map.get(a).equals(map.get(b))) return a.compareTo(b);
+            return Integer.compare(map.get(b), map.get(a));
         });
         
         for(String i : map.keySet()){
             pq.offer(i);
-            if(pq.size()>k) pq.poll();
         }
         
-        List<String> ls = new ArrayList<>(pq);
-        ls.sort((a,b)->{
-            if(map.get(a).equals(map.get(b))) return a.compareTo(b);
-            return Integer.compare(map.get(b), map.get(a));
-        });
+        List<String> ls = new ArrayList<>();
+        for(int i=0;i<k;i++){
+            ls.add(pq.poll());
+        }
         return ls;
     }
 }
