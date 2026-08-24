@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0692-top-k-frequent-words) |
+| [0704-binary-search](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0739-daily-temperatures) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
