@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0509-fibonacci-number) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
@@ -360,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0509-fibonacci-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
