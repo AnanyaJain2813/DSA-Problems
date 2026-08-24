@@ -8,7 +8,7 @@ class Solution {
 
         int low = 0, high = nums.length - 1;
         int mid = 0;
-        while(low <= mid && mid <= high && mid < nums.length){
+        while(low <= mid && mid <= high){
             if(nums[mid] == 2){
                 swap(nums, mid, high);
                 high--;
