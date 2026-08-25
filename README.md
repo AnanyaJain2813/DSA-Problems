@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0767-reorganize-string) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0443-string-compression) |
+| [0541-reverse-string-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0925-long-pressed-name](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0925-long-pressed-name) |
 | [0986-interval-list-intersections](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0986-interval-list-intersections) |
