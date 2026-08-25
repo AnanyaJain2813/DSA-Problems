@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Prefix Sum
 |  |
 | ------- |
