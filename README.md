@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0338-counting-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -415,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
