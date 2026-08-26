@@ -16,7 +16,7 @@ class Solution {
 
         if(cnt == k){
 
-            while(s.charAt(l) == '0') l++;
+            while(l <= i && s.charAt(l) == '0') l++;
 
             String sub = s.substring(l, i+1);
             if(ans.isEmpty() || sub.length() < ans.length() || sub.length() == ans.length() && sub.compareTo(ans) < 0){
