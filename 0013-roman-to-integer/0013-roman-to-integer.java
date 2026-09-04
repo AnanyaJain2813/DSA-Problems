@@ -14,7 +14,7 @@ class Solution {
         for(int i = 0; i < s.length(); i++){
             int c = call(s, i);
             if(i + 1 < s.length() && c < call(s, i+1)){
-                 sum = sum - c;;
+                 sum = sum - c;
             }
             else sum += c;
         }
