@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0189-rotate-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
