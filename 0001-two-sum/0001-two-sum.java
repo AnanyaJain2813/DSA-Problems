@@ -1,63 +1,33 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        
-       
-        // int sum = 0;
+
         // HashMap<Integer, Integer> map = new HashMap<>();
-        // for(int i = 0; i < n; i++){
 
-        //     int rem = target - nums[i];
-        //     if(map.containsKey(rem)){
-        //         return new int[]{map.get(rem), i};
+        // for(int i = 0; i < nums.length; i++){
+        //     int t = target - nums[i];
+        //     if(map.containsKey(t)){
+        //         int v = map.get(t);
+        //         return new int[]{v,i};
         //     }
-        //         map.put(nums[i],i);
-        // }
-        // return new int[]{};
-
-        // int n = nums.length;
-        // int [][]a = new int[n][2];
-        // for(int i = 0; i < n; i++){
-        //     a[i][0] = nums[i];
-        //     a[i][1] = i;
-        // }
-        // Arrays.sort(a, (b,c) -> Integer.compare(b[0], c[0]));
-
-        // int i = 0, j = n - 1;
-        // while( i < j){
-        //     int sum = a[i][0] + a[j][0];
-        //     if(sum == target){
-        //         return new int[]{a[i][1], a[j][1]};
-        //     }
-        //     else if(sum > target){
-        //         j--;
-        //     }
-        //     else{
-        //         i++;
-        //     }
+        //     map.put(nums[i],i);
         // }
         // return new int[]{-1,-1};
-
-        int n = nums.length;
-       
-        int [][]a = new int[n][2];
-
-        for(int i = 0; i < n; i++){
-            a[i][0] = nums[i];
-            a[i][1] = i;
+        int [][]arr = new int [nums.length][2];
+        for(int i = 0; i < arr.length; i++){
+            arr[i] = new int[]{nums[i], i};
         }
 
-        Arrays.sort(a, (b,c)-> Integer.compare(b[0], c[0]));
+        Arrays.sort(arr, (a,b)->Integer.compare(a[0], b[0]));
         int i = 0, j = nums.length - 1;
-        while(i < j){
-            int sum = a[i][0] + a[j][0];
+
+        while( i < j){
+            int sum = arr[i][0] + arr[j][0];
             if(sum == target){
-                return new int[]{a[i][1],a[j][1]};
+                return new int[]{arr[i][1],arr[j][1]};
             }
-            else if(sum > target){
-                j--;
-            }
+            if(sum > target) j--;
             else i++;
         }
         return new int[]{-1,-1};
-            }
+    }
 }
