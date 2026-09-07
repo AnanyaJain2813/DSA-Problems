@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0070-climbing-stairs) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0057-insert-interval) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0048-rotate-image) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0867-transpose-matrix](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0867-transpose-matrix) |
 ## Monotonic Stack
