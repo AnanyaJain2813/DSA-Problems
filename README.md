@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0338-counting-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Floyd's Cycle Finding Algorithm
