@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0229-majority-element-ii) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0875-koko-eating-bananas) |
