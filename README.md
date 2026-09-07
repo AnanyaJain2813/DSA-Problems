@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0206-reverse-linked-list) |
 | [0706-design-hashmap](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0706-design-hashmap) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## String Matching
@@ -495,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
