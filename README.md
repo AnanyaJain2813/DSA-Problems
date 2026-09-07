@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0881-boats-to-save-people) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0881-boats-to-save-people) |
 | [0925-long-pressed-name](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0925-long-pressed-name) |
 | [0986-interval-list-intersections](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0986-interval-list-intersections) |
 | [1768-merge-strings-alternately](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1768-merge-strings-alternately) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0767-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0881-boats-to-save-people) |
 ## Quicksort
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0767-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0881-boats-to-save-people) |
 ## Design
 |  |
 | ------- |
@@ -519,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
