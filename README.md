@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0875-koko-eating-bananas) |
