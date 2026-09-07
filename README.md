@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Linked List
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0986-interval-list-intersections) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0036-valid-sudoku) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0867-transpose-matrix](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0867-transpose-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
