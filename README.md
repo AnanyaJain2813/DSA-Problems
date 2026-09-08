@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3870-count-commas-in-range](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## String Matching
 |  |
