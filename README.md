@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/3870-count-commas-in-range) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -322,10 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Timsort
 |  |
