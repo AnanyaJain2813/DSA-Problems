@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0168-excel-sheet-column-title) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0735-asteroid-collision) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0231-power-of-two) |
