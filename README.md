@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
