@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0509-fibonacci-number) |
@@ -608,4 +609,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0595-big-countries) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
