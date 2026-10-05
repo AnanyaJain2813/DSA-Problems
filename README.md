@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0541-reverse-string-ii) |
+| [0678-valid-parenthesis-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0767-reorganize-string) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0739-daily-temperatures) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
 |  |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0881-boats-to-save-people) |
