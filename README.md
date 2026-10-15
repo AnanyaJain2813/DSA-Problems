@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0881-boats-to-save-people) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/3731-find-missing-elements) |
 ## Quicksort
 |  |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
