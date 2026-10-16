@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0066-plus-one) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0402-remove-k-digits) |
