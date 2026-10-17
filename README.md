@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0503-next-greater-element-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0541-reverse-string-ii) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0875-koko-eating-bananas) |
