@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/3731-find-missing-elements) |
 ## Quicksort
 |  |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AnanyaJain2813/DSA-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
